@@ -262,4 +262,5 @@
 # Published with
 
 - id: published_with
+  # translation: Many thanks to [Tong Wu](https://wutong16.github.io/) for sharing the website code. <br> Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
   translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
